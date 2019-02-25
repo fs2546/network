@@ -1,11 +1,12 @@
 # network
 
-Anti-corruption data:
-1. digging more into the firm affected by anti-corruption: winning and losing firms
+Updated Feb 25, 2019 
+Anti-corruption:
+1. confirm the heterogeneous effects for firms experiencing shocks: winning and losing firms
 
-Economic shocks data:
+Economic shocks:
 1. EPU index
 2. Firms 
-2.1 Industry shock
+2.1 Industry shock, e.g. Bertrand (2012)
 2.2 Export/import firms
-2.3 Firms' input 
+2.3 Firms' input, e.g. oil 
